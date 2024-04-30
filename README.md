@@ -1,4 +1,4 @@
-# K-Fold-Cross-validation
+# Types of Cross-validation
 This repository presents an in-depth implementation of four advanced cross-validation techniques in Python for robust model evaluation and validation:
 
 # 1-Hold One Out Method: 
